@@ -138,27 +138,27 @@ em {
 }
 
 .title-word-1 {
-    --color-1: #DF8453;
-    --color-2: #3D8DAE;
-    --color-3: #E4A9A8;
+    --color-1: #646508;
+    --color-2: #0f20d3;
+    --color-3: #d2120f;
 }
 
 .title-word-2 {
-    --color-1: #DBAD4A;
-    --color-2: #ACCFCB;
+    --color-1: #d2120f;
+    --color-2: #c7d63d;
     --color-3: #17494D;
 }
 
 .title-word-3 {
-    --color-1: #ACCFCB;
-    --color-2: #E4A9A8;
-    --color-3: #ACCFCB;
+    --color-1: #adc526;
+    --color-2: #e96b69;
+    --color-3: #065a91;
 }
 
 .title-word-4 {
-    --color-1: #3D8DAE;
-    --color-2: #DF8453;
-    --color-3: #E4A9A8;
+    --color-1: #0f20d3;
+    --color-2: #646508;
+    --color-3: #adc526;
 }
 
 @keyframes color-animation {
